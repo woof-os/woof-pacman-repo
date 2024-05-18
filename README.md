@@ -13,7 +13,7 @@ This repository includes binary packages:
 ```
 [woof-pacman-repo]
 SigLevel = Optional TrustedOnly
-Server = https://woof-os.github.io/$repo/$arch
+Server = https://repo.os.lewoof.xyz/$arch
 ```
 
 - Run `sudo pacman -Syyu` to update the package list.
