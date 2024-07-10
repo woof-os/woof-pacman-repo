@@ -1,5 +1,9 @@
 # Pacman Repository for Woof OS
 
+[Browse on GitHub](https://github.com/woof-os/woof-pacman-repo)
+
+---
+
 This repository includes binary packages:
 
 - From Woof
